@@ -6,5 +6,7 @@ public class Third {
         // it is a rainy day today
 
         // it is going to be sunny day tomorrow
+
+        // it will be cloudy day after tomorrow
     }
 }
